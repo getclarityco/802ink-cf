@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://802ink-cf.mumley.net/sitemap.xml
